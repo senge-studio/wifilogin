@@ -2,7 +2,7 @@
 ## 使用说明
 本程序只能在河南城建学院使用，如果需要在其他学校使用，请按需自行修改代码，功能是自动连接Wi-Fi并连接校园网
 ## 开放源代码协议
-本程序采用 [MIT协议](https://opensource.org/licenses/MIT/) ，可以按需自行修改或分发。
+本程序使用的是 [MIT协议](https://opensource.org/licenses/MIT/) ，可以按需自行修改或分发。
 ## 安装方法
 ### Windows/Linux：
 ```bash
