@@ -1,6 +1,6 @@
 # 校园网Wi-Fi连接
-## 开源协议
-本程序采用 [MIT开源协议](https://opensource.org/licenses/MIT/) ，可以按需自行修改或分发。
+## 开放源代码协议
+本程序采用 [MIT协议](https://opensource.org/licenses/MIT/) ，可以按需自行修改或分发。
 ## 安装方法
 ### Windows/Linux：
 ```bash
