@@ -112,11 +112,13 @@ if __name__ == '__main__':
     operator = data['Operator']
     username = data['UserName']
     password = data['Password']
-    # 连接Wi-Fi
-    wifi_connect(operator)
     # 检测网络连接
     if network_check():
         print('Wi-Fi has already connected, you needn\'t to login.')
     else:
+        # 连接Wi-Fi
+        wifi_connect(operator)
+        # 注销账号
         logout(username, password)
+        # 登录账号
         login(username, password)
